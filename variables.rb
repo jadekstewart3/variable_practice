@@ -9,3 +9,7 @@ int_3 = 3333
 float_1 = 11.11
 float_2 = 22.22 
 flaot_3 = 33.33
+
+boolean_1 = 4 == 3
+boolean_2 = 37 > 47
+boolean_3 = 25!= 35
